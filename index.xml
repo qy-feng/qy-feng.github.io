@@ -3,12 +3,14 @@
   <channel>
     <title>QY.Feng</title>
     <link>https://qy-feng.github.io/</link>
-    <description>Recent content on QY.Feng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    
-	    <atom:link href="https://qy-feng.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://qy-feng.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>QY.Feng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://qy-feng.github.io/img/icon-192.png</url>
+      <title>QY.Feng</title>
+      <link>https://qy-feng.github.io/</link>
+    </image>
     
   </channel>
 </rss>
