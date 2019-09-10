@@ -70,6 +70,15 @@
   </url>
   
   <url>
+    <loc>https://qy-feng.github.io/competitions/iccv2019-youtube-vos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/publication_types/4/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://qy-feng.github.io/publication/cascaded-revision-network-for-novel-object-captioning/</loc>
   </url>
   
@@ -81,6 +90,15 @@
   <url>
     <loc>https://qy-feng.github.io/authors/chenggang-yan/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/tags/competition/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/competitions/</loc>
   </url>
   
   <url>
