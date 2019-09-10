@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | QY.Feng</title>
+    <title>Authors | Qianyu Feng</title>
     <link>https://qy-feng.github.io/authors/</link>
       <atom:link href="https://qy-feng.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
@@ -17,7 +17,7 @@
       <link>https://qy-feng.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://qy-feng.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Qianyu Feng is a Ph.D. student of artificial intelligence at the UTS ReLER Lab. Her research interests include linguistic-vision cross-domain.&lt;/p&gt;
+      <description>&lt;p&gt;Qianyu Feng is a Ph.D. student of artificial intelligence at the UTS ReLER Lab. Her research interests include linguistic-vision abd cross-domain.&lt;/p&gt;
 </description>
     </item>
     
