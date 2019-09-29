@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Ph.D. student of School of Computer Science">
+  <meta name="description" content="In  this  paper,  we  investigate  the  principles  of  consis-tent  training,  between  given  reference  and  predicted  se-quence,  for better embedding learning of semi-supervisedvideo object segmentation.  To accurately segment the tar-get  objects  given  the  mask  at  the  first  frame,  we  realizethat  the  expected  feature  embeddings  of  any  consecutiveframes  should  satisfy  the  following  properties: 1)globalconsistency in terms of both foreground object(s) and back-ground; 2)robust local consistency under a various objectmoving rate; 3)environment consistency between the train-ing and inference process; 4)receptive consistency betweenthe  receptive  fields  of  network  and  the  variable  scales  ofobjects;5)sampling consistency between foreground andbackground pixels to avoid training bias.  With the princi-ples in mind,  we carefully design a simple pipeline to liftboth accuracy and efficiency for video object segmentationeffectively. With the ResNet-101 as the backbone, our singlemodel achieves a J&amp;F score of 81.0% on the validation setof Youtube-VOS benchmark without any bells and whistles.By applying multi-scale &amp; flip augmentation at the testingstage, the accuracy can be further boosted to 82.4%. Codewill be made available.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://qy-feng.github.io/publication/">
+  <link rel="alternate" hreflang="en-us" href="https://qy-feng.github.io/publication/going-deeper-into-embedding-learning-for-video-object-segmentation/">
 
   
 
@@ -101,17 +101,13 @@
   
 
   
-  <link rel="alternate" href="/publication/index.xml" type="application/rss+xml" title="Qianyu Feng">
-  
 
-  
-  <link rel="alternate" type="application/rss&#43;xml" href="/publication/index.xml">
   
 
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://qy-feng.github.io/publication/">
+  <link rel="canonical" href="https://qy-feng.github.io/publication/going-deeper-into-embedding-learning-for-video-object-segmentation/">
 
   
   
@@ -124,12 +120,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Qianyu Feng">
-  <meta property="og:url" content="https://qy-feng.github.io/publication/">
-  <meta property="og:title" content="Publications | Qianyu Feng">
-  <meta property="og:description" content="Ph.D. student of School of Computer Science"><meta property="og:image" content="https://qy-feng.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://qy-feng.github.io/publication/going-deeper-into-embedding-learning-for-video-object-segmentation/">
+  <meta property="og:title" content="Going Deeper into Embedding Learning for Video Object Segmentation | Qianyu Feng">
+  <meta property="og:description" content="In  this  paper,  we  investigate  the  principles  of  consis-tent  training,  between  given  reference  and  predicted  se-quence,  for better embedding learning of semi-supervisedvideo object segmentation.  To accurately segment the tar-get  objects  given  the  mask  at  the  first  frame,  we  realizethat  the  expected  feature  embeddings  of  any  consecutiveframes  should  satisfy  the  following  properties: 1)globalconsistency in terms of both foreground object(s) and back-ground; 2)robust local consistency under a various objectmoving rate; 3)environment consistency between the train-ing and inference process; 4)receptive consistency betweenthe  receptive  fields  of  network  and  the  variable  scales  ofobjects;5)sampling consistency between foreground andbackground pixels to avoid training bias.  With the princi-ples in mind,  we carefully design a simple pipeline to liftboth accuracy and efficiency for video object segmentationeffectively. With the ResNet-101 as the backbone, our singlemodel achieves a J&amp;F score of 81.0% on the validation setof Youtube-VOS benchmark without any bells and whistles.By applying multi-scale &amp; flip augmentation at the testingstage, the accuracy can be further boosted to 82.4%. Codewill be made available."><meta property="og:image" content="https://qy-feng.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://qy-feng.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2019-09-29T10:46:33&#43;10:00">
+    
+      <meta property="article:published_time" content="2019-09-29T10:46:33&#43;10:00">
+    
+    <meta property="article:modified_time" content="2019-09-29T10:46:33&#43;10:00">
   
 
   
@@ -141,7 +140,7 @@
 
 
 
-  <title>Publications | Qianyu Feng</title>
+  <title>Going Deeper into Embedding Learning for Video Object Segmentation | Qianyu Feng</title>
 
 </head>
 
@@ -308,751 +307,285 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
+  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+  
+
   
   
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Going Deeper into Embedding Learning for Video Object Segmentation</h1>
+
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Publications</h1>
+
+
+
+<meta content="2019-09-29 10:46:33 &#43;1000 AEST" itemprop="datePublished">
+<meta content="2019-09-29 10:46:33 &#43;1000 AEST" itemprop="dateModified">
+
+<div class="article-metadata">
 
   
+  
+  
+  
+  <div>
+    
+
+
+
+  
+    <span class="author-name">Zongxin Yang
+        </span>, 
+    <span class="author-name">Peike Li
+        </span>, 
+    <span class="author-name">Qianyu Feng
+        </span>, 
+    <span class="author-name">Yunchao Wei
+        </span>, 
+    <span class="author-name">Yi Yang
+        </span>
+
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://qy-feng.github.io/publication/going-deeper-into-embedding-learning-for-video-object-segmentation/&amp;text=Going%20Deeper%20into%20Embedding%20Learning%20for%20Video%20Object%20Segmentation" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://qy-feng.github.io/publication/going-deeper-into-embedding-learning-for-video-object-segmentation/&amp;t=Going%20Deeper%20into%20Embedding%20Learning%20for%20Video%20Object%20Segmentation" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Going%20Deeper%20into%20Embedding%20Learning%20for%20Video%20Object%20Segmentation&amp;body=https://qy-feng.github.io/publication/going-deeper-into-embedding-learning-for-video-object-segmentation/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://qy-feng.github.io/publication/going-deeper-into-embedding-learning-for-video-object-segmentation/&amp;title=Going%20Deeper%20into%20Embedding%20Learning%20for%20Video%20Object%20Segmentation" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Going%20Deeper%20into%20Embedding%20Learning%20for%20Video%20Object%20Segmentation%20https://qy-feng.github.io/publication/going-deeper-into-embedding-learning-for-video-object-segmentation/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://qy-feng.github.io/publication/going-deeper-into-embedding-learning-for-video-object-segmentation/&amp;title=Going%20Deeper%20into%20Embedding%20Learning%20for%20Video%20Object%20Segmentation" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  <div class="row">
-    <div class="col-lg-12">
+  <div class="article-container">
 
-      
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">In  this  paper,  we  investigate  the  principles  of  consis-tent  training,  between  given  reference  and  predicted  se-quence,  for better embedding learning of semi-supervisedvideo object segmentation.  To accurately segment the tar-get  objects  given  the  mask  at  the  first  frame,  we  realizethat  the  expected  feature  embeddings  of  any  consecutiveframes  should  satisfy  the  following  properties: 1)globalconsistency in terms of both foreground object(s) and back-ground; 2)robust local consistency under a various objectmoving rate; 3)environment consistency between the train-ing and inference process; 4)receptive consistency betweenthe  receptive  fields  of  network  and  the  variable  scales  ofobjects;5)sampling consistency between foreground andbackground pixels to avoid training bias.  With the princi-ples in mind,  we carefully design a simple pipeline to liftboth accuracy and efficiency for video object segmentationeffectively. With the ResNet-101 as the backbone, our singlemodel achieves a J&amp;F score of 81.0% on the validation setof Youtube-VOS benchmark without any bells and whistles.By applying multi-scale &amp; flip augmentation at the testingstage, the accuracy can be further boosted to 82.4%. Codewill be made available.</p>
+    
 
-      
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-
-      <div class="form-row mb-4">
-        <div class="col-auto">
-          <input type="search" class="filter-search" placeholder="Search..." autocapitalize="off"
-          autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
-        </div>
-        <div class="col-auto">
-          <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
-            <option value="*">Type</option>
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
             
             
-            <option value=".pubtype-0">
+            <a href="/publication/#0">
               Uncategorized
-            </option>
+            </a>
             
-            <option value=".pubtype-1">
-              Conference paper
-            </option>
-            
-            <option value=".pubtype-3">
-              Preprint
-            </option>
-            
-            <option value=".pubtype-4">
-              Report
-            </option>
-            
-          </select>
-        </div>
-        <div class="col-auto">
-          <select class="pub-filters form-control form-control-sm" data-filter-group="year">
-            <option value="*">Date</option>
-            
-            
-            
-            <option value=".year-2019">
-              2019
-            </option>
-            
-            <option value=".year-0001">
-              0001
-            </option>
-            
-            
-          </select>
+          </div>
         </div>
       </div>
-
-      <div id="container-publications">
-        
-
-        
-          
-        
-
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-0 year-2019">
-          
-            
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/publication/going-deeper-into-embedding-learning-for-video-object-segmentation/"  itemprop="url">Going Deeper into Embedding Learning for Video Object Segmentation</a>
-    </h3>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-
-<meta content="2019-09-29 10:46:33 &#43;1000 AEST" itemprop="datePublished">
-<meta content="2019-09-29 10:46:33 &#43;1000 AEST" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  
-    <span class="author-name">Zongxin Yang
-        </span>, 
-    <span class="author-name">Peike Li
-        </span>, 
-    <span class="author-name">Qianyu Feng
-        </span>, 
-    <span class="author-name">Yunchao Wei
-        </span>, 
-    <span class="author-name">Yi Yang
-        </span>
-
-  </div>
-  
-  
-
-  
-
-  
-  
-  <span class="pub-publication">
-    
-      IEEE International Conference on Computer Vision Workshop (ICCVW) 2019
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
-</div>
-
-      
+      <div class="col-md-1"></div>
     </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
+    <div class="d-md-none space-below"></div>
     
 
-  </div>
-  <div class="ml-3">
     
-    
-  </div>
-</div>
-
-          
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">IEEE International Conference on Computer Vision Workshop (ICCVW) 2019</div>
         </div>
-
-        
-
-        
-          
-        
-
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2019">
-          
-            
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/publication/dual-embedding-learning-for-video-instance-segmentation/"  itemprop="url">Dual Embedding Learning for Video Instance Segmentation</a>
-    </h3>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-
-<meta content="2019-09-29 10:46:33 &#43;1000 AEST" itemprop="datePublished">
-<meta content="2019-09-29 10:46:33 &#43;1000 AEST" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  
-    <span class="author-name">Qianyu Feng
-        </span>, 
-    <span class="author-name">Zongxin Yang
-        </span>, 
-    <span class="author-name">Peike Li
-        </span>, 
-    <span class="author-name">Yunchao Wei
-        </span>, 
-    <span class="author-name">Yi Yang
-        </span>
-
-  </div>
-  
-  
-
-  
-
-  
-  
-  <span class="pub-publication">
-    
-      IEEE International Conference on Computer Vision Workshop (ICCVW) 2019
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
-</div>
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-          
-        </div>
-
-        
-
-        
-          
-        
-
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2019">
-          
-            
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/publication/attract-or-distract-exploit-the-margin-of-open-set/"  itemprop="url">Attract or Distract: Exploit the Margin of Open Set</a>
-    </h3>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-
-<meta content="2019-09-10 14:11:43 &#43;1000 AEST" itemprop="datePublished">
-<meta content="2019-09-10 14:11:43 &#43;1000 AEST" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  
-    <span class="author-name">Feng Qianyu
-        </span>, 
-    <span class="author-name">Kang Guoliang
-        </span>, 
-    <span class="author-name">Fan Hehe
-        </span>, 
-    <span class="author-name">Yang Yi
-        </span>
-
-  </div>
-  
-  
-
-  
-
-  
-  
-  <span class="pub-publication">
-    
-      IEEE International Conference on Computer Vision (ICCV) 2019
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
-</div>
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/1908.01925" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/attract-or-distract-exploit-the-margin-of-open-set/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/qy-feng/margin-openset" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-          
-        </div>
-
-        
-
-        
-          
-        
-
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-3 year-0001">
-          
-            
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-  
-
-
-
-  
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/publication/cascaded-revision-network-for-novel-object-captioning/"  itemprop="url">Cascaded Revision Network for Novel Object Captioning</a>
-    </h3>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-
-<meta content="" itemprop="datePublished">
-<meta content="" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  
-    <span class="author-name">Qianyu Feng
-        </span>, 
-    <span class="author-name">Yu Wu
-        </span>, 
-    <span class="author-name">Hehe Fan
-        </span>, 
-    <span class="author-name">Chenggang Yan
-        </span>, 
-    <span class="author-name">Yi Yang
-        </span>
-
-  </div>
-  
-  
-
-  
-
-  
-  
-  <span class="pub-publication">
-    
-      ArXiv Preprint
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-  
-
-</div>
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/1908.02726" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/cascaded-revision-network-for-novel-object-captioning/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-          
-        </div>
-
-        
       </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
 
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/zongxin-yang/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
     </div>
   </div>
+
+
+
+
+    
+
+
+  </div>
 </div>
+
+
 
       
 

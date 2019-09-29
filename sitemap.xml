@@ -3,20 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://qy-feng.github.io/publication_types/0/</loc>
+    <lastmod>2019-09-29T10:46:33+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://qy-feng.github.io/publication_types/1/</loc>
-    <lastmod>2019-09-10T14:11:43+10:00</lastmod>
+    <lastmod>2019-09-29T10:46:33+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/authors/</loc>
+    <lastmod>2019-09-29T10:46:33+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/publication/dual-embedding-learning-for-video-instance-segmentation/</loc>
+    <lastmod>2019-09-29T10:46:33+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/publication/going-deeper-into-embedding-learning-for-video-object-segmentation/</loc>
+    <lastmod>2019-09-29T10:46:33+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/authors/peike-li/</loc>
+    <lastmod>2019-09-29T10:46:33+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/publication_types/</loc>
+    <lastmod>2019-09-29T10:46:33+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/publication/</loc>
+    <lastmod>2019-09-29T10:46:33+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/authors/qianyu-feng/</loc>
+    <lastmod>2019-09-29T10:46:33+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/</loc>
+    <lastmod>2019-09-29T10:46:33+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/authors/yi-yang/</loc>
+    <lastmod>2019-09-29T10:46:33+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/authors/yunchao-wei/</loc>
+    <lastmod>2019-09-29T10:46:33+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/authors/zongxin-yang/</loc>
+    <lastmod>2019-09-29T10:46:33+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://qy-feng.github.io/publication/attract-or-distract-exploit-the-margin-of-open-set/</loc>
     <lastmod>2019-09-10T14:11:43+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qy-feng.github.io/authors/</loc>
-    <lastmod>2019-09-10T14:11:43+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -33,23 +96,6 @@
   
   <url>
     <loc>https://qy-feng.github.io/authors/kang-guoliang/</loc>
-    <lastmod>2019-09-10T14:11:43+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://qy-feng.github.io/publication_types/</loc>
-    <lastmod>2019-09-10T14:11:43+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://qy-feng.github.io/publication/</loc>
-    <lastmod>2019-09-10T14:11:43+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qy-feng.github.io/</loc>
     <lastmod>2019-09-10T14:11:43+10:00</lastmod>
     <priority>0</priority>
   </url>
@@ -107,17 +153,7 @@
   </url>
   
   <url>
-    <loc>https://qy-feng.github.io/authors/qianyu-feng/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://qy-feng.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://qy-feng.github.io/authors/yi-yang/</loc>
     <priority>0</priority>
   </url>
   

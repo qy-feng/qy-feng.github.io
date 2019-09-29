@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Qianyu Feng</title>
-    <link>https://qy-feng.github.io/authors/qianyu-feng/</link>
-      <atom:link href="https://qy-feng.github.io/authors/qianyu-feng/index.xml" rel="self" type="application/rss+xml" />
-    <description>Qianyu Feng</description>
+    <title>Zongxin Yang | Qianyu Feng</title>
+    <link>https://qy-feng.github.io/authors/zongxin-yang/</link>
+      <atom:link href="https://qy-feng.github.io/authors/zongxin-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zongxin Yang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2019 10:46:33 +1000</lastBuildDate>
     <image>
       <url>https://qy-feng.github.io/img/icon-192.png</url>
-      <title>Qianyu Feng</title>
-      <link>https://qy-feng.github.io/authors/qianyu-feng/</link>
+      <title>Zongxin Yang</title>
+      <link>https://qy-feng.github.io/authors/zongxin-yang/</link>
     </image>
     
     <item>
@@ -25,14 +25,6 @@
       <link>https://qy-feng.github.io/publication/going-deeper-into-embedding-learning-for-video-object-segmentation/</link>
       <pubDate>Sun, 29 Sep 2019 10:46:33 +1000</pubDate>
       <guid>https://qy-feng.github.io/publication/going-deeper-into-embedding-learning-for-video-object-segmentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cascaded Revision Network for Novel Object Captioning</title>
-      <link>https://qy-feng.github.io/publication/cascaded-revision-network-for-novel-object-captioning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://qy-feng.github.io/publication/cascaded-revision-network-for-novel-object-captioning/</guid>
       <description></description>
     </item>
     
