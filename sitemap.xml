@@ -139,10 +139,6 @@
   </url>
   
   <url>
-    <loc>https://qy-feng.github.io/competitions/iccv2019-youtube-vos/</loc>
-  </url>
-  
-  <url>
     <loc>https://qy-feng.github.io/publication_types/4/</loc>
     <priority>0</priority>
   </url>
@@ -173,6 +169,10 @@
   <url>
     <loc>https://qy-feng.github.io/authors/hehe-fan/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/competitions/iccv2019-youtube-vos-challenge/</loc>
   </url>
   
   <url>
