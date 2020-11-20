@@ -5,12 +5,20 @@
     <link>https://qy-feng.github.io/authors/yunchao-wei/</link>
       <atom:link href="https://qy-feng.github.io/authors/yunchao-wei/index.xml" rel="self" type="application/rss+xml" />
     <description>Yunchao Wei</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2019 10:46:33 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Nov 2020 10:46:33 +1000</lastBuildDate>
     <image>
       <url>https://qy-feng.github.io/img/icon-192.png</url>
       <title>Yunchao Wei</title>
       <link>https://qy-feng.github.io/authors/yunchao-wei/</link>
     </image>
+    
+    <item>
+      <title>Towards Universal Visual Grounding via Comprehensive Space-Time Decomposition</title>
+      <link>https://qy-feng.github.io/publication/towards-universal-visual-grounding-via-comprehensive-space-time-decomposition/</link>
+      <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
+      <guid>https://qy-feng.github.io/publication/towards-universal-visual-grounding-via-comprehensive-space-time-decomposition/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dual Embedding Learning for Video Instance Segmentation</title>

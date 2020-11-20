@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Qianyu Feng</title>
+    <title>3 | QIANYU FENG</title>
     <link>https://qy-feng.github.io/publication_types/3/</link>
       <atom:link href="https://qy-feng.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Nov 2020 10:46:33 +1000</lastBuildDate>
     <image>
       <url>https://qy-feng.github.io/img/icon-192.png</url>
       <title>3</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
-      <title>Cascaded Revision Network for Novel Object Captioning</title>
-      <link>https://qy-feng.github.io/publication/cascaded-revision-network-for-novel-object-captioning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://qy-feng.github.io/publication/cascaded-revision-network-for-novel-object-captioning/</guid>
+      <title>Learning Geometric Stereo-Representation from Single-View with Mutual Information Maximization</title>
+      <link>https://qy-feng.github.io/publication/learning-geometric-stereo-representation-from-single-view-with-mutual-information-maximization/</link>
+      <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
+      <guid>https://qy-feng.github.io/publication/learning-geometric-stereo-representation-from-single-view-with-mutual-information-maximization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Look, Map and Mold: Learning 3D Shape Manifold via Single-view Synthetic Data</title>
+      <link>https://qy-feng.github.io/publication/look-map-and-mold-learning-3d-shape-manifold-via-single-view-synthetic-data/</link>
+      <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
+      <guid>https://qy-feng.github.io/publication/look-map-and-mold-learning-3d-shape-manifold-via-single-view-synthetic-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Universal Visual Grounding via Comprehensive Space-Time Decomposition</title>
+      <link>https://qy-feng.github.io/publication/towards-universal-visual-grounding-via-comprehensive-space-time-decomposition/</link>
+      <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
+      <guid>https://qy-feng.github.io/publication/towards-universal-visual-grounding-via-comprehensive-space-time-decomposition/</guid>
       <description></description>
     </item>
     

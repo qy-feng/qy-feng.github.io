@@ -5,12 +5,36 @@
     <link>https://qy-feng.github.io/authors/qianyu-feng/</link>
       <atom:link href="https://qy-feng.github.io/authors/qianyu-feng/index.xml" rel="self" type="application/rss+xml" />
     <description>Qianyu Feng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jun 2020 10:46:33 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Nov 2020 10:46:33 +1000</lastBuildDate>
     <image>
       <url>https://qy-feng.github.io/img/icon-192.png</url>
       <title>Qianyu Feng</title>
       <link>https://qy-feng.github.io/authors/qianyu-feng/</link>
     </image>
+    
+    <item>
+      <title>Learning Geometric Stereo-Representation from Single-View with Mutual Information Maximization</title>
+      <link>https://qy-feng.github.io/publication/learning-geometric-stereo-representation-from-single-view-with-mutual-information-maximization/</link>
+      <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
+      <guid>https://qy-feng.github.io/publication/learning-geometric-stereo-representation-from-single-view-with-mutual-information-maximization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Look, Map and Mold: Learning 3D Shape Manifold via Single-view Synthetic Data</title>
+      <link>https://qy-feng.github.io/publication/look-map-and-mold-learning-3d-shape-manifold-via-single-view-synthetic-data/</link>
+      <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
+      <guid>https://qy-feng.github.io/publication/look-map-and-mold-learning-3d-shape-manifold-via-single-view-synthetic-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Universal Visual Grounding via Comprehensive Space-Time Decomposition</title>
+      <link>https://qy-feng.github.io/publication/towards-universal-visual-grounding-via-comprehensive-space-time-decomposition/</link>
+      <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
+      <guid>https://qy-feng.github.io/publication/towards-universal-visual-grounding-via-comprehensive-space-time-decomposition/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Zero-VIRUS: Zero-shot vehicle route understanding system for intelligent transportation</title>

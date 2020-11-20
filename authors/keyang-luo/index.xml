@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keyang Luo | QIANYU FENG</title>
+    <link>https://qy-feng.github.io/authors/keyang-luo/</link>
+      <atom:link href="https://qy-feng.github.io/authors/keyang-luo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Keyang Luo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Nov 2020 10:46:33 +1000</lastBuildDate>
+    <image>
+      <url>https://qy-feng.github.io/img/icon-192.png</url>
+      <title>Keyang Luo</title>
+      <link>https://qy-feng.github.io/authors/keyang-luo/</link>
+    </image>
+    
+    <item>
+      <title>Learning Geometric Stereo-Representation from Single-View with Mutual Information Maximization</title>
+      <link>https://qy-feng.github.io/publication/learning-geometric-stereo-representation-from-single-view-with-mutual-information-maximization/</link>
+      <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
+      <guid>https://qy-feng.github.io/publication/learning-geometric-stereo-representation-from-single-view-with-mutual-information-maximization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Look, Map and Mold: Learning 3D Shape Manifold via Single-view Synthetic Data</title>
+      <link>https://qy-feng.github.io/publication/look-map-and-mold-learning-3d-shape-manifold-via-single-view-synthetic-data/</link>
+      <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
+      <guid>https://qy-feng.github.io/publication/look-map-and-mold-learning-3d-shape-manifold-via-single-view-synthetic-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
