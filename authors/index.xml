@@ -5,12 +5,44 @@
     <link>https://qy-feng.github.io/authors/</link>
       <atom:link href="https://qy-feng.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Nov 2020 10:46:33 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 10:46:33 +1000</lastBuildDate>
     <image>
       <url>https://qy-feng.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://qy-feng.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Keyang Luo</title>
+      <link>https://qy-feng.github.io/authors/keyang-luo/</link>
+      <pubDate>Sun, 20 Dec 2020 10:46:33 +1000</pubDate>
+      <guid>https://qy-feng.github.io/authors/keyang-luo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qianyu Feng</title>
+      <link>https://qy-feng.github.io/authors/qianyu-feng/</link>
+      <pubDate>Sun, 20 Dec 2020 10:46:33 +1000</pubDate>
+      <guid>https://qy-feng.github.io/authors/qianyu-feng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yawei Luo</title>
+      <link>https://qy-feng.github.io/authors/yawei-luo/</link>
+      <pubDate>Sun, 20 Dec 2020 10:46:33 +1000</pubDate>
+      <guid>https://qy-feng.github.io/authors/yawei-luo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yi Yang</title>
+      <link>https://qy-feng.github.io/authors/yi-yang/</link>
+      <pubDate>Sun, 20 Dec 2020 10:46:33 +1000</pubDate>
+      <guid>https://qy-feng.github.io/authors/yi-yang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hongxia Yang</title>
@@ -21,42 +53,10 @@
     </item>
     
     <item>
-      <title>Keyang Luo</title>
-      <link>https://qy-feng.github.io/authors/keyang-luo/</link>
-      <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
-      <guid>https://qy-feng.github.io/authors/keyang-luo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ming-Ming Cheng</title>
       <link>https://qy-feng.github.io/authors/ming-ming-cheng/</link>
       <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
       <guid>https://qy-feng.github.io/authors/ming-ming-cheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qianyu Feng</title>
-      <link>https://qy-feng.github.io/authors/qianyu-feng/</link>
-      <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
-      <guid>https://qy-feng.github.io/authors/qianyu-feng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yawei Luo</title>
-      <link>https://qy-feng.github.io/authors/yawei-luo/</link>
-      <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
-      <guid>https://qy-feng.github.io/authors/yawei-luo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yi Yang</title>
-      <link>https://qy-feng.github.io/authors/yi-yang/</link>
-      <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
-      <guid>https://qy-feng.github.io/authors/yi-yang/</guid>
       <description></description>
     </item>
     
@@ -153,8 +153,7 @@
       <link>https://qy-feng.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://qy-feng.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Qianyu Feng is a second-year Ph.D. student at &lt;a href=&#34;http://reler.net/&#34; target=&#34;_blank&#34;&gt;ReLER Lab&lt;/a&gt;, &lt;a href=&#34;https://www.uts.edu.au/research-and-teaching/our-research/centre-artificial-intelligence&#34; target=&#34;_blank&#34;&gt;Australian Artificial Intelligence Institute (AAII)&lt;/a&gt;, &lt;a href=&#34;https://www.uts.edu.au/&#34; target=&#34;_blank&#34;&gt;University of Technology Sydney (UTS)&lt;/a&gt;. Her academic advisors are &lt;a href=&#34;https://scholar.google.com/citations?user=RMSuNFwAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Prof. Yi Yang&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?user=vNHqr3oAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Prof. Liang Zheng&lt;/a&gt;. Her research interests include cross-domain representation learning and linguistic-vision applications. She speaks fluent in multiple languages, including Chinese, English and French. She is an advocator and member of &lt;a href=&#34;https://www.uts.edu.au/about/faculty-engineering-and-information-technology/women-engineering-and-it&#34; target=&#34;_blank&#34;&gt;Women in Engineering and IT&lt;/a&gt;. She is building AI systems aligning &lt;strong&gt;human-centred values&lt;/strong&gt; and ensuring the &lt;strong&gt;fairness, reliability and accountability&lt;/strong&gt; throughout their lifecycle.&lt;/p&gt;
-
+      <description>&lt;p&gt;Qianyu Feng is a second-year Ph.D. student at &lt;a href=&#34;http://reler.net/&#34;&gt;ReLER Lab&lt;/a&gt;, &lt;a href=&#34;https://www.uts.edu.au/research-and-teaching/our-research/centre-artificial-intelligence&#34;&gt;Australian Artificial Intelligence Institute (AAII)&lt;/a&gt;, &lt;a href=&#34;https://www.uts.edu.au/&#34;&gt;University of Technology Sydney (UTS)&lt;/a&gt;. Her academic advisors are &lt;a href=&#34;https://scholar.google.com/citations?user=RMSuNFwAAAAJ&amp;amp;hl=en&#34;&gt;Prof. Yi Yang&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?user=vNHqr3oAAAAJ&amp;amp;hl=en&#34;&gt;Prof. Liang Zheng&lt;/a&gt;. Her research interests include cross-domain representation learning and linguistic-vision applications. She speaks fluent in multiple languages, including Chinese, English and French. She is an advocator and member of &lt;a href=&#34;https://www.uts.edu.au/about/faculty-engineering-and-information-technology/women-engineering-and-it&#34;&gt;Women in Engineering and IT&lt;/a&gt;. She is building AI systems aligning &lt;strong&gt;human-centred values&lt;/strong&gt; and ensuring the &lt;strong&gt;fairness, reliability and accountability&lt;/strong&gt; throughout their lifecycle.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Artificial Intelligence Is Too Important to Leave to Men Alone&lt;/p&gt;
 &lt;/blockquote&gt;

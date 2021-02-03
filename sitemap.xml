@@ -1,29 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://qy-feng.github.io/publication_types/3/</loc>
-    <lastmod>2020-11-20T10:46:33+10:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-12-20T10:46:33+10:00</lastmod>
   </url>
   
   <url>
     <loc>https://qy-feng.github.io/authors/</loc>
-    <lastmod>2020-11-20T10:46:33+10:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-12-20T10:46:33+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/publication/conditional-transductive-learning-via-geometric-neural-processes/</loc>
+    <lastmod>2020-12-20T10:46:33+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/authors/keyang-luo/</loc>
+    <lastmod>2020-12-20T10:46:33+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/publication_types/</loc>
+    <lastmod>2020-12-20T10:46:33+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/publication/</loc>
+    <lastmod>2020-12-20T10:46:33+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/</loc>
+    <lastmod>2020-12-20T10:46:33+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/authors/qianyu-feng/</loc>
+    <lastmod>2020-12-20T10:46:33+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/authors/yawei-luo/</loc>
+    <lastmod>2020-12-20T10:46:33+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qy-feng.github.io/authors/yi-yang/</loc>
+    <lastmod>2020-12-20T10:46:33+10:00</lastmod>
   </url>
   
   <url>
     <loc>https://qy-feng.github.io/authors/hongxia-yang/</loc>
     <lastmod>2020-11-20T10:46:33+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://qy-feng.github.io/authors/keyang-luo/</loc>
-    <lastmod>2020-11-20T10:46:33+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -39,30 +70,6 @@
   <url>
     <loc>https://qy-feng.github.io/authors/ming-ming-cheng/</loc>
     <lastmod>2020-11-20T10:46:33+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://qy-feng.github.io/publication_types/</loc>
-    <lastmod>2020-11-20T10:46:33+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://qy-feng.github.io/publication/</loc>
-    <lastmod>2020-11-20T10:46:33+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qy-feng.github.io/</loc>
-    <lastmod>2020-11-20T10:46:33+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://qy-feng.github.io/authors/qianyu-feng/</loc>
-    <lastmod>2020-11-20T10:46:33+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -71,51 +78,33 @@
   </url>
   
   <url>
-    <loc>https://qy-feng.github.io/authors/yawei-luo/</loc>
-    <lastmod>2020-11-20T10:46:33+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://qy-feng.github.io/authors/yi-yang/</loc>
-    <lastmod>2020-11-20T10:46:33+10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://qy-feng.github.io/authors/yunchao-wei/</loc>
     <lastmod>2020-11-20T10:46:33+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://qy-feng.github.io/publication_types/1/</loc>
     <lastmod>2020-06-29T10:46:33+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://qy-feng.github.io/authors/alexander-g-hauptmann/</loc>
     <lastmod>2020-06-29T10:46:33+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://qy-feng.github.io/authors/lijun-yu/</loc>
     <lastmod>2020-06-29T10:46:33+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://qy-feng.github.io/authors/wenhe-liu/</loc>
     <lastmod>2020-06-29T10:46:33+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://qy-feng.github.io/authors/yijun-qian/</loc>
     <lastmod>2020-06-29T10:46:33+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -136,13 +125,11 @@
   <url>
     <loc>https://qy-feng.github.io/authors/peike-li/</loc>
     <lastmod>2019-09-29T10:46:33+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://qy-feng.github.io/authors/zongxin-yang/</loc>
     <lastmod>2019-09-29T10:46:33+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -153,25 +140,21 @@
   <url>
     <loc>https://qy-feng.github.io/authors/fan-hehe/</loc>
     <lastmod>2019-09-10T14:11:43+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://qy-feng.github.io/authors/feng-qianyu/</loc>
     <lastmod>2019-09-10T14:11:43+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://qy-feng.github.io/authors/kang-guoliang/</loc>
     <lastmod>2019-09-10T14:11:43+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://qy-feng.github.io/authors/yang-yi/</loc>
     <lastmod>2019-09-10T14:11:43+10:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -180,12 +163,10 @@
   
   <url>
     <loc>https://qy-feng.github.io/publication_types/2/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://qy-feng.github.io/publication_types/4/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -194,17 +175,14 @@
   
   <url>
     <loc>https://qy-feng.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://qy-feng.github.io/authors/chenggang-yan/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://qy-feng.github.io/tags/competition/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -213,7 +191,6 @@
   
   <url>
     <loc>https://qy-feng.github.io/authors/hehe-fan/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -222,12 +199,10 @@
   
   <url>
     <loc>https://qy-feng.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://qy-feng.github.io/authors/yu-wu/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

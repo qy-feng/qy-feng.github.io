@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Image captioning, a challenging task where the machine automatically describes an image by sentences, has drawn significant attention in recent years. Despite the remarkable improvements of recent approaches, however, these methods are built upon a large set of training image-sentence pairs. The expensive labor efforts hence limit the captioning model to describe the wider world. In this paper, we present a novel network structure, Cascaded Revision Network, which aims at relieving the problem by equipping the model with out-of-domain knowledge. CRN first tries its best to describe an image using the existing vocabulary from in-domain knowledge. Due to the lack of out-of-domain knowledge, the caption may be inaccurate or include ambiguous words for the image with unknown (novel) objects. We propose to re-edit the primary captioning sentence by a series of cascaded operations. We introduce a perplexity predictor to find out which words are most likely to be inaccurate given the input image. Thereafter, we utilize external knowledge from a pre-trained object detection model and select more accurate words from detection results by the visual matching module. In the last step, we design a semantic matching module to ensure that the novel object is fit in the right position. By this novel cascaded captioning-revising mechanism, CRN can accurately describe images with unseen objects. We validate the proposed method with state-of-the-art performance on the held-out MSCOCO dataset as well as scale to ImageNet, demonstrating the effectiveness of this method.">
+  <meta name="description" content="Contemporary data-driven methods are typically fed with large-scale data samples which limits their applicability in small data regimes. On the contrary, neural processes can efficiently fit the observed data to model the data distribution. However, it is nontrivial for most existing neural process methods to perceive the relativity in the data samples. Here we propose Geometric Neural Processes (GNP), a new class of neural processes which incorporates the geometric information of data samples. Different from existing works, GNP benefits from the data structure for transductive learning using a graph representation. Specifically, GNP first computes the distance of a target point to its neighbors, and then learns a non-linear distance-weighted aggregation scheme over the conditional points. In order to enhance the reliability and compactness of the representation, we borrow the spirit of the information bottleneck. Capturing both the node features and the geometric features of point samples w.r.t. the given context, GNP is more inductive, scalable and robust to the data uncertainty. We demonstrate the stability and versatility of the proposed method for data interpolation, achieving state-of-the-art performance on multifold tasks, including regression, image completion and motion generation. ">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://qy-feng.github.io/publication/cascaded-revision-network-for-novel-object-captioning/">
+  <link rel="alternate" hreflang="en-us" href="https://qy-feng.github.io/publication/conditional-transductive-learning-via-geometric-neural-processes/">
 
   
 
@@ -107,7 +107,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://qy-feng.github.io/publication/cascaded-revision-network-for-novel-object-captioning/">
+  <link rel="canonical" href="https://qy-feng.github.io/publication/conditional-transductive-learning-via-geometric-neural-processes/">
 
   
   
@@ -119,13 +119,15 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="QIANYU FENG">
-  <meta property="og:url" content="https://qy-feng.github.io/publication/cascaded-revision-network-for-novel-object-captioning/">
-  <meta property="og:title" content="Cascaded Revision Network for Novel Object Captioning | QIANYU FENG">
-  <meta property="og:description" content="Image captioning, a challenging task where the machine automatically describes an image by sentences, has drawn significant attention in recent years. Despite the remarkable improvements of recent approaches, however, these methods are built upon a large set of training image-sentence pairs. The expensive labor efforts hence limit the captioning model to describe the wider world. In this paper, we present a novel network structure, Cascaded Revision Network, which aims at relieving the problem by equipping the model with out-of-domain knowledge. CRN first tries its best to describe an image using the existing vocabulary from in-domain knowledge. Due to the lack of out-of-domain knowledge, the caption may be inaccurate or include ambiguous words for the image with unknown (novel) objects. We propose to re-edit the primary captioning sentence by a series of cascaded operations. We introduce a perplexity predictor to find out which words are most likely to be inaccurate given the input image. Thereafter, we utilize external knowledge from a pre-trained object detection model and select more accurate words from detection results by the visual matching module. In the last step, we design a semantic matching module to ensure that the novel object is fit in the right position. By this novel cascaded captioning-revising mechanism, CRN can accurately describe images with unseen objects. We validate the proposed method with state-of-the-art performance on the held-out MSCOCO dataset as well as scale to ImageNet, demonstrating the effectiveness of this method."><meta property="og:image" content="https://qy-feng.github.io/publication/cascaded-revision-network-for-novel-object-captioning/featured.png">
-  <meta property="twitter:image" content="https://qy-feng.github.io/publication/cascaded-revision-network-for-novel-object-captioning/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://qy-feng.github.io/publication/conditional-transductive-learning-via-geometric-neural-processes/">
+  <meta property="og:title" content="Conditional Transductive Learning via Geometric Neural Processes | QIANYU FENG">
+  <meta property="og:description" content="Contemporary data-driven methods are typically fed with large-scale data samples which limits their applicability in small data regimes. On the contrary, neural processes can efficiently fit the observed data to model the data distribution. However, it is nontrivial for most existing neural process methods to perceive the relativity in the data samples. Here we propose Geometric Neural Processes (GNP), a new class of neural processes which incorporates the geometric information of data samples. Different from existing works, GNP benefits from the data structure for transductive learning using a graph representation. Specifically, GNP first computes the distance of a target point to its neighbors, and then learns a non-linear distance-weighted aggregation scheme over the conditional points. In order to enhance the reliability and compactness of the representation, we borrow the spirit of the information bottleneck. Capturing both the node features and the geometric features of point samples w.r.t. the given context, GNP is more inductive, scalable and robust to the data uncertainty. We demonstrate the stability and versatility of the proposed method for data interpolation, achieving state-of-the-art performance on multifold tasks, including regression, image completion and motion generation. "><meta property="og:image" content="https://qy-feng.github.io/publication/conditional-transductive-learning-via-geometric-neural-processes/featured.png">
+  <meta property="twitter:image" content="https://qy-feng.github.io/publication/conditional-transductive-learning-via-geometric-neural-processes/featured.png"><meta property="og:locale" content="en-us">
   
     
+      <meta property="article:published_time" content="2020-12-20T10:46:33&#43;10:00">
     
+    <meta property="article:modified_time" content="2020-12-20T10:46:33&#43;10:00">
   
 
   
@@ -137,7 +139,7 @@
 
 
 
-  <title>Cascaded Revision Network for Novel Object Captioning | QIANYU FENG</title>
+  <title>Conditional Transductive Learning via Geometric Neural Processes | QIANYU FENG</title>
 
 </head>
 
@@ -330,7 +332,7 @@
 
 
 <div class="article-container pt-3">
-  <h1 itemprop="name">Cascaded Revision Network for Novel Object Captioning</h1>
+  <h1 itemprop="name">Conditional Transductive Learning via Geometric Neural Processes</h1>
 
   
 
@@ -338,8 +340,8 @@
 
 
 
-<meta content="" itemprop="datePublished">
-<meta content="" itemprop="dateModified">
+<meta content="2020-12-20 10:46:33 &#43;1000 &#43;1000" itemprop="datePublished">
+<meta content="2020-12-20 10:46:33 &#43;1000 &#43;1000" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -355,11 +357,9 @@
   
     <span class="author-name">Qianyu Feng
         </span>, 
-    <span class="author-name">Yu Wu
+    <span class="author-name">Keyang Luo
         </span>, 
-    <span class="author-name">Hehe Fan
-        </span>, 
-    <span class="author-name">Chenggang Yan
+    <span class="author-name">Yawei Luo
         </span>, 
     <span class="author-name">Yi Yang
         </span>
@@ -393,7 +393,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://qy-feng.github.io/publication/cascaded-revision-network-for-novel-object-captioning/&amp;text=Cascaded%20Revision%20Network%20for%20Novel%20Object%20Captioning" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://qy-feng.github.io/publication/conditional-transductive-learning-via-geometric-neural-processes/&amp;text=Conditional%20Transductive%20Learning%20via%20Geometric%20Neural%20Processes" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -406,7 +406,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://qy-feng.github.io/publication/cascaded-revision-network-for-novel-object-captioning/&amp;t=Cascaded%20Revision%20Network%20for%20Novel%20Object%20Captioning" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://qy-feng.github.io/publication/conditional-transductive-learning-via-geometric-neural-processes/&amp;t=Conditional%20Transductive%20Learning%20via%20Geometric%20Neural%20Processes" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -419,7 +419,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Cascaded%20Revision%20Network%20for%20Novel%20Object%20Captioning&amp;body=https://qy-feng.github.io/publication/cascaded-revision-network-for-novel-object-captioning/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Conditional%20Transductive%20Learning%20via%20Geometric%20Neural%20Processes&amp;body=https://qy-feng.github.io/publication/conditional-transductive-learning-via-geometric-neural-processes/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -432,7 +432,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://qy-feng.github.io/publication/cascaded-revision-network-for-novel-object-captioning/&amp;title=Cascaded%20Revision%20Network%20for%20Novel%20Object%20Captioning" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://qy-feng.github.io/publication/conditional-transductive-learning-via-geometric-neural-processes/&amp;title=Conditional%20Transductive%20Learning%20via%20Geometric%20Neural%20Processes" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -445,7 +445,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Cascaded%20Revision%20Network%20for%20Novel%20Object%20Captioning%20https://qy-feng.github.io/publication/cascaded-revision-network-for-novel-object-captioning/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Conditional%20Transductive%20Learning%20via%20Geometric%20Neural%20Processes%20https://qy-feng.github.io/publication/conditional-transductive-learning-via-geometric-neural-processes/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -458,7 +458,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://qy-feng.github.io/publication/cascaded-revision-network-for-novel-object-captioning/&amp;title=Cascaded%20Revision%20Network%20for%20Novel%20Object%20Captioning" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://qy-feng.github.io/publication/conditional-transductive-learning-via-geometric-neural-processes/&amp;title=Conditional%20Transductive%20Learning%20via%20Geometric%20Neural%20Processes" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -483,61 +483,15 @@
 
 
 
-  
-
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/1908.02726" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/cascaded-revision-network-for-novel-object-captioning/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 </div>
 
 
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 598px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 446px;">
   <div style="position: relative">
-    <img src="/publication/cascaded-revision-network-for-novel-object-captioning/featured_hu56d2f594123fe6d104343faa9d3e77a4_329573_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    <img src="/publication/conditional-transductive-learning-via-geometric-neural-processes/featured_hued87ee78db5a33d360f1c790b9ae6552_224988_720x0_resize_lanczos_2.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -548,7 +502,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Image captioning, a challenging task where the machine automatically describes an image by sentences, has drawn significant attention in recent years. Despite the remarkable improvements of recent approaches, however, these methods are built upon a large set of training image-sentence pairs. The expensive labor efforts hence limit the captioning model to describe the wider world. In this paper, we present a novel network structure, Cascaded Revision Network, which aims at relieving the problem by equipping the model with out-of-domain knowledge. CRN first tries its best to describe an image using the existing vocabulary from in-domain knowledge. Due to the lack of out-of-domain knowledge, the caption may be inaccurate or include ambiguous words for the image with unknown (novel) objects. We propose to re-edit the primary captioning sentence by a series of cascaded operations. We introduce a perplexity predictor to find out which words are most likely to be inaccurate given the input image. Thereafter, we utilize external knowledge from a pre-trained object detection model and select more accurate words from detection results by the visual matching module. In the last step, we design a semantic matching module to ensure that the novel object is fit in the right position. By this novel cascaded captioning-revising mechanism, CRN can accurately describe images with unseen objects. We validate the proposed method with state-of-the-art performance on the held-out MSCOCO dataset as well as scale to ImageNet, demonstrating the effectiveness of this method.</p>
+    <p class="pub-abstract" itemprop="text">Contemporary data-driven methods are typically fed with large-scale data samples which limits their applicability in small data regimes. On the contrary, neural processes can efficiently fit the observed data to model the data distribution. However, it is nontrivial for most existing neural process methods to perceive the relativity in the data samples. Here we propose Geometric Neural Processes (GNP), a new class of neural processes which incorporates the geometric information of data samples. Different from existing works, GNP benefits from the data structure for transductive learning using a graph representation. Specifically, GNP first computes the distance of a target point to its neighbors, and then learns a non-linear distance-weighted aggregation scheme over the conditional points. In order to enhance the reliability and compactness of the representation, we borrow the spirit of the information bottleneck. Capturing both the node features and the geometric features of point samples w.r.t. the given context, GNP is more inductive, scalable and robust to the data uncertainty. We demonstrate the stability and versatility of the proposed method for data interpolation, achieving state-of-the-art performance on multifold tasks, including regression, image completion and motion generation.</p>
     
 
     
@@ -560,8 +514,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#2">
-              Journal article
+            <a href="/publication/#3">
+              Preprint
             </a>
             
           </div>
@@ -578,7 +532,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</div>
+          <div class="col-12 col-md-9">Preprint</div>
         </div>
       </div>
       <div class="col-md-1"></div>
