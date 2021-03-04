@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Keyang Luo</title>
-      <link>https://qy-feng.github.io/authors/keyang-luo/</link>
+      <title>Alexander Hauptmann</title>
+      <link>https://qy-feng.github.io/authors/alexander-hauptmann/</link>
       <pubDate>Sun, 20 Dec 2020 10:46:33 +1000</pubDate>
-      <guid>https://qy-feng.github.io/authors/keyang-luo/</guid>
+      <guid>https://qy-feng.github.io/authors/alexander-hauptmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pingbo Pan</title>
+      <link>https://qy-feng.github.io/authors/pingbo-pan/</link>
+      <pubDate>Sun, 20 Dec 2020 10:46:33 +1000</pubDate>
+      <guid>https://qy-feng.github.io/authors/pingbo-pan/</guid>
       <description></description>
     </item>
     
@@ -25,14 +33,6 @@
       <link>https://qy-feng.github.io/authors/qianyu-feng/</link>
       <pubDate>Sun, 20 Dec 2020 10:46:33 +1000</pubDate>
       <guid>https://qy-feng.github.io/authors/qianyu-feng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yawei Luo</title>
-      <link>https://qy-feng.github.io/authors/yawei-luo/</link>
-      <pubDate>Sun, 20 Dec 2020 10:46:33 +1000</pubDate>
-      <guid>https://qy-feng.github.io/authors/yawei-luo/</guid>
       <description></description>
     </item>
     
@@ -53,10 +53,26 @@
     </item>
     
     <item>
+      <title>Keyang Luo</title>
+      <link>https://qy-feng.github.io/authors/keyang-luo/</link>
+      <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
+      <guid>https://qy-feng.github.io/authors/keyang-luo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ming-Ming Cheng</title>
       <link>https://qy-feng.github.io/authors/ming-ming-cheng/</link>
       <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
       <guid>https://qy-feng.github.io/authors/ming-ming-cheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yawei Luo</title>
+      <link>https://qy-feng.github.io/authors/yawei-luo/</link>
+      <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
+      <guid>https://qy-feng.github.io/authors/yawei-luo/</guid>
       <description></description>
     </item>
     
