@@ -5,12 +5,20 @@
     <link>https://qy-feng.github.io/publication/</link>
       <atom:link href="https://qy-feng.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 10:46:33 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Mar 2021 10:46:33 +1000</lastBuildDate>
     <image>
       <url>https://qy-feng.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://qy-feng.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Look, Evolve and Mold: Learning 3D Shape Manifold via Single-view Synthetic Data</title>
+      <link>https://qy-feng.github.io/publication/look-evolve-and-mold-learning-3d-shape-manifold-via-single-view-synthetic-data/</link>
+      <pubDate>Wed, 10 Mar 2021 10:46:33 +1000</pubDate>
+      <guid>https://qy-feng.github.io/publication/look-evolve-and-mold-learning-3d-shape-manifold-via-single-view-synthetic-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Conditional Transductive Learning via Geometric Neural Processes</title>
@@ -25,14 +33,6 @@
       <link>https://qy-feng.github.io/publication/learning-geometric-stereo-representation-from-single-view-with-mutual-information-maximization/</link>
       <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
       <guid>https://qy-feng.github.io/publication/learning-geometric-stereo-representation-from-single-view-with-mutual-information-maximization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Look, Map and Mold: Learning 3D Shape Manifold via Single-view Synthetic Data</title>
-      <link>https://qy-feng.github.io/publication/look-map-and-mold-learning-3d-shape-manifold-via-single-view-synthetic-data/</link>
-      <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
-      <guid>https://qy-feng.github.io/publication/look-map-and-mold-learning-3d-shape-manifold-via-single-view-synthetic-data/</guid>
       <description></description>
     </item>
     
