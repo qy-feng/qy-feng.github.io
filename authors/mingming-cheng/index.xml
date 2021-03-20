@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mingming Cheng | QIANYU FENG</title>
+    <link>https://qy-feng.github.io/authors/mingming-cheng/</link>
+      <atom:link href="https://qy-feng.github.io/authors/mingming-cheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mingming Cheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Nov 2020 10:46:33 +1000</lastBuildDate>
+    <image>
+      <url>https://qy-feng.github.io/img/icon-192.png</url>
+      <title>Mingming Cheng</title>
+      <link>https://qy-feng.github.io/authors/mingming-cheng/</link>
+    </image>
+    
+    <item>
+      <title>Decoupled Spatial Temporal Graphs for Generic Visual Grounding</title>
+      <link>https://qy-feng.github.io/publication/decoupled-spatial-temporal-graphs-for-generic-visual-grounding/</link>
+      <pubDate>Fri, 20 Nov 2020 10:46:33 +1000</pubDate>
+      <guid>https://qy-feng.github.io/publication/decoupled-spatial-temporal-graphs-for-generic-visual-grounding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
